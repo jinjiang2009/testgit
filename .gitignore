@@ -1,0 +1,11 @@
+#忽略  config.php 文件,防止每次提交都被覆盖
+*.DS_Store
+*.bak
+/temp/
+/data/config.php
+/d.sublime-project
+/d.sublime-workspace
+/images/
+/html/
+/.idea/
+/.git/
